@@ -37,5 +37,5 @@ pub fn main() anyerror!void {
             continue;
         }
     }
-    std.debug.print("match で〜す！\n", .{});
+    std.debug.print("match で〜す！（鶴太郎）\n", .{});
 }
